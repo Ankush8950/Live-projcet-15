@@ -16,6 +16,6 @@
 ---
 ## 🚀  Project Live Link <br>
 ---
-This project is been hosted on netlify. [Live Project Link](https://illustrious-dragon-25c496.netlify.app)
+This project is been hosted on netlify. [Live Project Link](https://dynamic-bunny-38bb2c.netlify.app/)
 
 ![Saas web page](./portfolio%20page.png)
